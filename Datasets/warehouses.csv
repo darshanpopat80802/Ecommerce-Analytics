@@ -1,0 +1,21 @@
+warehouse_id,warehouse_name,city,state,country
+1,Ahmedabad WH,Ahmedabad,Gujarat,India
+2,Mumbai WH,Mumbai,Maharashtra,India
+3,Pune WH,Pune,Maharashtra,India
+4,Bangalore WH,Bangalore,Karnataka,India
+5,Chennai WH,Chennai,Tamil Nadu,India
+6,Hyderabad WH,Hyderabad,Telangana,India
+7,Delhi WH,Delhi,Delhi,India
+8,Jaipur WH,Jaipur,Rajasthan,India
+9,Kolkata WH,Kolkata,West Bengal,India
+10,Lucknow WH,Lucknow,Uttar Pradesh,India
+11,Surat WH,Surat,Gujarat,India
+12,Indore WH,Indore,Madhya Pradesh,India
+13,Kochi WH,Kochi,Kerala,India
+14,Chandigarh WH,Chandigarh,Chandigarh,India
+15,Nagpur WH,Nagpur,Maharashtra,India
+16,Bhopal WH,Bhopal,Madhya Pradesh,India
+17,Patna WH,Patna,Bihar,India
+18,Bhubaneswar WH,Bhubaneswar,Odisha,India
+19,Guwahati WH,Guwahati,Assam,India
+20,Jammu WH,Jammu,Jammu & Kashmir,India

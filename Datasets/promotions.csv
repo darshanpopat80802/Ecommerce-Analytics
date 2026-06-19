@@ -1,0 +1,11 @@
+promotion_id,promotion_name,start_date,end_date,discount_percent
+1,Diwali Sale,2025-06-09,2025-06-17,67
+2,Black Friday,2024-12-25,2025-01-02,50
+3,New Year Sale,2025-05-09,2025-06-07,68
+4,Summer Sale,2025-06-04,2025-06-16,68
+5,Monsoon Sale,2025-09-05,2025-10-05,30
+6,Republic Day Offer,2025-06-28,2025-07-04,15
+7,Independence Day Sale,2024-05-13,2024-06-05,69
+8,Festive Bonanza,2024-01-27,2024-02-23,37
+9,Electronics Week,2025-10-22,2025-11-07,70
+10,Fashion Fiesta,2024-02-22,2024-03-15,22
